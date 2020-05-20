@@ -1,0 +1,19 @@
+
+249,Crtop,China,123.0,Mat,kieu dang dep,chat vai min
+250,Dep Quai Hau,Viet Nam,155.0,Kieu dang dep,ben
+251,Giay,Japan,198.0,Kieu dang dep,khong bong choc da
+252,Tui Sach,Kore,450.0,Kieu dang dep,Chat da ca xau
+253,Mascara,Thai Lan,167.0,Kieu dang dep,an toan, chat luong
+254,Kem Nen,Phap,320.0,Kieu dang dep, an toan , khong co hai cho nguoi dung,lau choi
+249,Crtop,China,123.0,Mat,kieu dang dep,chat vai min
+250,Dep Quai Hau,Viet Nam,155.0,Kieu dang dep,ben
+251,Giay,Japan,198.0,Kieu dang dep,khong bong choc da
+252,Tui Sach,Kore,450.0,Kieu dang dep,Chat da ca xau
+253,Mascara,Thai Lan,167.0,Kieu dang dep,an toan, chat luong
+254,Kem Nen,Phap,320.0,Kieu dang dep, an toan , khong co hai cho nguoi dung,lau choi
+249,Crtop,China,123.0,Mat,kieu dang dep,chat vai min
+250,Dep Quai Hau,Viet Nam,155.0,Kieu dang dep,ben
+251,Giay,Japan,198.0,Kieu dang dep,khong bong choc da
+252,Tui Sach,Kore,450.0,Kieu dang dep,Chat da ca xau
+253,Mascara,Thai Lan,167.0,Kieu dang dep,an toan, chat luong
+254,Kem Nen,Phap,320.0,Kieu dang dep, an toan , khong co hai cho nguoi dung,lau choi
